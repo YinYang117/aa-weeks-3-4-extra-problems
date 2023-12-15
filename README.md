@@ -32,9 +32,10 @@ You are tasked with implementing a utility that processes a dataset of students 
    ];
 
 
-2. **Calculate Class Average:**
-    - Implement a function to calculate the average score for the entire class.
+2. **Calculate Student Average:**
+    - Implement a function to calculate the average score for each student in the entire class.
     - Use the map and reduce array methods.
+    - Add a new key value pair. The key is averageScores, the value will be that average
 
 3. **Calculate Class Average:**
     - Implement a function to calculate the average score for the entire class.
