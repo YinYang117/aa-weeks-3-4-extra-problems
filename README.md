@@ -32,17 +32,22 @@ You are tasked with implementing a utility that processes a dataset of students 
    ];
 
 
-2. **Calculate Class Average:**
-    - Implement a function to calculate the average score for the entire class.
+2. **Calculate Student Average:**
+    - Implement a function to calculate the average score for each student.
     - Use the map and reduce array methods.
+    - Return an array of student objects where 
+        - a new key value pair has been added to each object
+        - showing each student's current average score.
 
 3. **Calculate Class Average:**
-    - Implement a function to calculate the average score for the entire class.
-    - Use the map and reduce array methods.
+    - Implement a function to calculate the average score for each class in the possible classes.
+    - Use the reduce array method.
+    - Return an object with keys of each possible class, and values of all students' avearage score for that class
 
 4. **Filter Students Above a Threshold:**
-    - Implement a function that filters students with an average score above a given threshold.
+    - Implement a closure function that filters students with an average score above a given threshold.
     - Use the filter array method.
+    - The outer function should take in the array 
 
 5. **Weighted Averages:**
     - Implement closure for calculating a weighted average for each student.
