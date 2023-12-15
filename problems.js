@@ -1,5 +1,11 @@
 import {students, possibleClasses} from ("./students")
 
+// console.log(possibleClasses);
+// console.log(students);
+// There are no test files for this.
+// Use the array of students, pass it into your functions
+// Look at the student data, or console.log, to see the specifics of the students
+// Use that to see if the function is providing the correct output
 
 // Calculate Class Average:
 
