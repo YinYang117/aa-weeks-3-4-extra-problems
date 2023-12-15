@@ -107,8 +107,6 @@ console.log(weightedAverage);
     Weighted average = Weighted sum / Total weight = 148.1 / 1.8 = 82.27 or 82.28
 ```
 
-
-
 6. **Modify Scores:**
     - Implement a function to modify the scores of all students by applying a given modifier function.
     - Use the map array method.
